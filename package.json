@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ip": "^1.1.5",
+    "ip": "^1.1.9",
     "moment": "^2.24.0"
   }
 }
